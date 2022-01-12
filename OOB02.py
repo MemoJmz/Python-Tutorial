@@ -75,3 +75,6 @@ print(emp_1.__dict__)
 # See (3)
 
 print(Employee.num_of_emps)
+
+# We have class variables and instance variables, the same works with methods
+# static methods and class methods
